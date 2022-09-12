@@ -1,5 +1,5 @@
 # floods_saopaulo
-This database contains urban flood data (and complementary data) of an area located in São Paulo municipality, Brasil. 
+This database contains urban flood data (and complementary data) of an area located in São Paulo municipality, Brazil. 
 It contains vector files (shapefiles) and alphanumeric files. The geography coordinate system is EPSG 4326 – SIRGAS2000.
 It is divided in: input, processed, output and auxilary.
 The paper produced with this data, with the methodology and steps are presented in: 
